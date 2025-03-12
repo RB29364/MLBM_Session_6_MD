@@ -1,0 +1,57 @@
+[2] revenueTrends.json
+{
+  "revenueTrends": [
+    {
+      "company": "Alpha Corp",
+      "quarters": [
+        {"quarter": "Q1-2022", "revenue": 82.3},
+        {"quarter": "Q2-2022", "revenue": 78.9},
+        {"quarter": "Q3-2022", "revenue": 95.1},
+        {"quarter": "Q4-2022", "revenue": 70.2},
+        {"quarter": "Q1-2023", "revenue": 88.7},
+        {"quarter": "Q2-2023", "revenue": 65.4},
+        {"quarter": "Q3-2023", "revenue": 79.6},
+        {"quarter": "Q4-2023", "revenue": 91.8}
+      ]
+    },
+    {
+      "company": "Beta Inc",
+      "quarters": [
+        {"quarter": "Q1-2022", "revenue": 160.5},
+        {"quarter": "Q2-2022", "revenue": 175.2},
+        {"quarter": "Q3-2022", "revenue": 182.9},
+        {"quarter": "Q4-2022", "revenue": 195.7},
+        {"quarter": "Q1-2023", "revenue": 208.3},
+        {"quarter": "Q2-2023", "revenue": 220.1},
+        {"quarter": "Q3-2023", "revenue": 235.6},
+        {"quarter": "Q4-2023", "revenue": 250.8}
+      ]
+    },
+    {
+      "company": "Gamma LLC",
+      "quarters": [
+        {"quarter": "Q1-2022", "revenue": 105.6},
+        {"quarter": "Q2-2022", "revenue": 98.4},
+        {"quarter": "Q3-2022", "revenue": 112.7},
+        {"quarter": "Q4-2022", "revenue": 90.1},
+        {"quarter": "Q1-2023", "revenue": 108.9},
+        {"quarter": "Q2-2023", "revenue": 95.3},
+        {"quarter": "Q3-2023", "revenue": 101.5},
+        {"quarter": "Q4-2023", "revenue": 115.0}
+      ]
+    },
+    {
+      "company": "Delta Co",
+      "quarters": [
+        {"quarter": "Q1-2022", "revenue": 75.9},
+        {"quarter": "Q2-2022", "revenue": 68.7},
+        {"quarter": "Q3-2022", "revenue": 80.3},
+        {"quarter": "Q4-2022", "revenue": 62.5},
+        {"quarter": "Q1-2023", "revenue": 77.1},
+        {"quarter": "Q2-2023", "revenue": 69.8},
+        {"quarter": "Q3-2023", "revenue": 73.6},
+        {"quarter": "Q4-2023", "revenue": 85.2}
+      ]
+    }
+  ]
+}
