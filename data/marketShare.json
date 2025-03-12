@@ -1,0 +1,21 @@
+[1] marketShare.json
+{
+  "marketShare": [
+    {
+      "company": "Alpha Corp",
+      "share": 20.5
+    },
+    {
+      "company": "Beta Inc",
+      "share": 41.2
+    },
+    {
+      "company": "Gamma LLC",
+      "share": 18.3
+    },
+    {
+      "company": "Delta Co",
+      "share": 20.0
+    }
+  ]
+}
