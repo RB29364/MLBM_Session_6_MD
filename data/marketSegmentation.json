@@ -1,0 +1,20 @@
+[3] marketSegmentation.json
+{
+  "marketSegments": [
+    {
+      "segment": "Segment A",
+      "revenue": 120.5,
+      "growthRate": 4.2
+    },
+    {
+      "segment": "Segment B",
+      "revenue": 250.8,
+      "growthRate": 8.1
+    },
+    {
+      "segment": "Segment C",
+      "revenue": 95.3,
+      "growthRate": 2.5
+    }
+  ]
+}
